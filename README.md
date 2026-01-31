@@ -1,1 +1,19 @@
 # AbstractOS
+
+A complete operating system made by **Abdulrahman Fahim** to implement minimalaism and performance inside a long awaited masterpiece.
+
+Copyright (c) Abdulrahman Fahim
+
+Permission is hereby granted to any person obtaining a copy of this software
+and associated documentation files (the "Software") to use, copy, modify,
+and distribute the Software for non-commercial purposes only, provided that
+the above copyright notice and this permission notice appear in all copies.
+
+Commercial use of the Software, including but not limited to selling,
+licensing, or including the Software in a product or service for which a fee
+is charged, is strictly prohibited without prior written permission from the
+copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
